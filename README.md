@@ -8,7 +8,7 @@ I am passionate with anything related to computer science , especially programmi
 
 * 🌍  I'm based in FES-MEKNES
 * ✉️  You can contact me at [abellah.elghennami@usmba.ac.ma](mailto:abellah.elghennami@usmba.ac.ma)
-* 🧠  I'm learning Data structure in C
+* 🧠  I'm learning about NETWORKS
 
 ### Skills
 
