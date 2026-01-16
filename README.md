@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdellah EL GHENNAMI</h1>
-<h3 align="center">Computer Science Student | Full-Stack Web Developer</h3>
+<h3 align="center">Computer Science Student 
 
 <p align="center">
   Passionate about building scalable web applications and learning modern backend & frontend technologies.
