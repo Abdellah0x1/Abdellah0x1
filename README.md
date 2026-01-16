@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student 
 
 <p align="center">
-  Passionate about building scalable web applications and learning modern backend & frontend technologies.
+   learning modern backend & frontend technologies.
 </p>
 
 <p align="center">
