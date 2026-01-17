@@ -5,9 +5,7 @@
    learning modern backend & frontend technologies.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdellah0x1&label=Profile%20views&color=0e75b6&style=flat" alt="abdellah0x1" />
-</p>
+
 
 ---
 
