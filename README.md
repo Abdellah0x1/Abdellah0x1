@@ -51,9 +51,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
 </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</a>
+
 
 <!-- OS -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
