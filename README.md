@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abdellah EL GHENNAMI</h1>
-<img width="1584" height="400" alt="coverLinkedin" src="https://github.com/user-attachments/assets/b3e313d2-a107-4fcc-b76b-8c60782f69b5" />>
 
+<h3 align="center">
+A passionate Computer Science & Artificial Intelligence student
+</h3>
 
+<p align="center">
+  <img width="1584" height="400" alt="cover" src="https://free-3dtextureshd.com/wp-content/uploads/2025/05/Bleach-Anime-Kurosaki-ichigo-Hollow-Wallpaper-4K-HD-Free-for-PC-Mobile-223.jpg.webp" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Passionate **Computer Science & Artificial Intelligence student**
+- 💡 Interested in **software development, full-stack web applications, and AI**
+- 🚀 Constantly learning and building projects to sharpen my skills
 
 ---
 
@@ -10,7 +22,7 @@
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/abdellah-el-ghennami-199a58374/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -38,8 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-
-
 <!-- Databases -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
@@ -47,7 +57,6 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
 </a>
-
 
 <!-- OS -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
