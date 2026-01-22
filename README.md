@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdellah EL GHENNAMI</h1>
-<h3 align="center">Computer Science Student 
-
-<p align="center">
-   learning modern backend & frontend technologies.
-</p>
+<img width="1584" height="400" alt="coverLinkedin" src="https://github.com/user-attachments/assets/b3e313d2-a107-4fcc-b76b-8c60782f69b5" />>
 
 
 
