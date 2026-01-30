@@ -5,7 +5,7 @@ A passionate Computer Science & Artificial Intelligence student
 </h3>
 
 <p align="center">
-  <img width="1584" height="400" alt="cover" src="https://free-3dtextureshd.com/wp-content/uploads/2025/05/Bleach-Anime-Kurosaki-ichigo-Hollow-Wallpaper-4K-HD-Free-for-PC-Mobile-223.jpg.webp" />
+  <img width="1584" height="400" alt="cover" src="https://images.steamusercontent.com/ugc/1811021954136916356/7E1974B61B8D02405DFE3FEBFA7527339B3D83BE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 </p>
 
 ---
