@@ -5,7 +5,8 @@ A passionate Computer Science & Artificial Intelligence student
 </h3>
 
 <p align="center">
-  <img width="1584" height="400" alt="cover" src="https://images.steamusercontent.com/ugc/1811021954136916356/7E1974B61B8D02405DFE3FEBFA7527339B3D83BE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
+  <img " height="400" style="object-fit: cover" alt="cover" src="https://wallpapers.com/images/hd/black-clover-yami-66zxelporhldrghf.jpg"/>
+
 </p>
 
 ---
