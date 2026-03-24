@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Abdellah EL GHENNAMI</h1>
 
 
 
