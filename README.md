@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdellah EL GHENNAMI</h1>
 
-<h3 align="center">
-A passionate Computer Science & Artificial Intelligence student
-</h3>
+
 
 <p align="center">
   <img " height="400" style="object-fit: cover" alt="cover" src="https://wallpapers.com/images/hd/black-clover-yami-66zxelporhldrghf.jpg"/>
