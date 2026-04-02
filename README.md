@@ -1,9 +1,5 @@
-
-
-
 <p align="center">
-  <img " height="400" style="object-fit: cover" alt="cover" src="https://wallpapers.com/images/hd/black-clover-yami-66zxelporhldrghf.jpg"/>
-
+  <img height="400" style="object-fit: cover" alt="cover" src="https://wallpapers.com/images/hd/black-clover-yami-66zxelporhldrghf.jpg"/>
 </p>
 
 ---
@@ -40,6 +36,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
 </a>
@@ -50,6 +49,9 @@
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" width="40" height="40"/>
 </a>
 
 <!-- Frontend -->
@@ -97,5 +99,7 @@
 ## 🚀 What I'm Currently Learning
 - Advanced **Node.js & Backend Architecture**
 - **REST API security** and authentication
-- **Database design** 
+- **Database design**
+- **Prisma ORM** with **PostgreSQL**
+- **TypeScript** for scalable backend development
 - Full-stack application structure and best practices
