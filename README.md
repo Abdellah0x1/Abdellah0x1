@@ -2,7 +2,6 @@
   <img src="https://c4.wallpaperflare.com/wallpaper/796/615/769/cartoons-dad-meme-minimalistic-wallpaper-thumb.jpg" width="100%" height="400px" />
 </p>
 
-
 ## 🤝 Connect with Me
 
 <p align="left">
@@ -13,10 +12,10 @@
 
 ---
 
-
 ## 🛠️ Languages & Tools
 
 ### Programming Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,6 +25,7 @@
 </p>
 
 ### Backend & Frameworks
+
 <p align="left">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -36,6 +36,7 @@
 </p>
 
 ### Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -43,8 +44,11 @@
 </p>
 
 ### DevOps & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 </p>
