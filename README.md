@@ -1,3 +1,9 @@
+<p align="center"> <img src="https://c4.wallpaperflare.com/wallpaper/796/615/769/cartoons-dad-meme-minimalistic-wallpaper-thumb.jpg" width="100%" height="400px" /> </p>
+
+🤝 Connect with Me
+
+<p align="left"> <a href="https://www.linkedin.com/in/abdellah-el-ghennami-199a58374/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Abdellah%20El%20Ghennami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages
