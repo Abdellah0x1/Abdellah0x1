@@ -27,7 +27,7 @@
 ### ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux&perline=10" />
 </p>
 
 ### 🔧 Tools
