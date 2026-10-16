@@ -15,7 +15,7 @@
 ### 🌐 Backend & Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs,prisma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,react,nextjs,prisma&perline=10" />
 </p>
 
 ### 🗄️ Databases & Caching
